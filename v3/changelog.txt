@@ -13,5 +13,3 @@ Wing skill feature added.
 Added cheat key change feature.
 Added to change the transparency ratio of other players.-----
 -------------
-----------
-------
