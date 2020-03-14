@@ -11,4 +11,5 @@ Lag problem solved. /cips fixed.
 Added automatic gift box collection feature in Vanilla maps.
 Wing skill feature added.
 Added cheat key change feature.
-Added to change the transparency ratio of other players.-----
+Added to change the transparency ratio of other players.
+jjjjj
