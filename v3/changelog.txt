@@ -1,5 +1,5 @@
 v3.0 - 01.01.2020
-@-@
+@#Q
 Program design was improved.
 Menu design improved.
 Cheat features were translated for each language.
