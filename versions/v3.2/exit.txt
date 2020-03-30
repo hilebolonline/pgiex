@@ -1,1 +1,5 @@
-0
+{
+  "exitProgram": false,
+  "showUpdateLink": false,
+  "updateLink": "https://hilebol.online/"
+}
