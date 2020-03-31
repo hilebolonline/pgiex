@@ -1,0 +1,29 @@
+{
+  "serverCount": 8,
+  "server": [
+    {
+      "name": "Transformice",
+      "domain": "transformice.com",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Hugmice",
+      "domain": "transformice.com",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transformice",
+      "domain": "transformice.com",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transformice",
+      "domain": "transformice.com",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    }
+  ]
+}
