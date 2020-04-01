@@ -80,6 +80,12 @@
       "imgUrl": "google.com/demo.jpg"
     },
     {
+      "name": "Müdahale ediyoruz",
+      "domain": "nanomice.eu",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
       "name": "Cheeseformice",
       "domain": "cheeseformice.ru",
       "swfUrl": "google.com/demo.swf",
