@@ -6,6 +6,7 @@
       "name": "Transformice",
       "domain": "transformice.com",
       "swfUrl": "C:\\Pgiex\\TFMClient\\ChargeurTransformice.swf",
+      "autoUpdate": "http://pgiex2.hilebol.online/Games/AutoUpdate/",
       "imgUrl": "google.com/demo.jpg"
     },
     {
