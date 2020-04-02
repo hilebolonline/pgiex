@@ -2,7 +2,7 @@
   "gameCount": 8,
   "game": [
     {
-      "name": "NULL",
+      "name": "Transformice",
       "domain": "transformice.com",
       "swfUrl": "google.com/demo.swf",
       "imgUrl": "google.com/demo.jpg"
@@ -56,6 +56,42 @@
       "imgUrl": "google.com/demo.jpg"
     },
     {
+      "name": "Micemixy",
+      "domain": "micemixy.site",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Esmice",
+      "domain": "esmice.me",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforvida",
+      "domain": "tfmvida.com",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Nanomice",
+      "domain": "nanomice.eu",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Cheeseformice",
+      "domain": "cheeseformice.ru",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	    {
       "name": "Micemixy",
       "domain": "micemixy.site",
       "swfUrl": "google.com/demo.swf",
