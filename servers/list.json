@@ -2,7 +2,7 @@
   "gameCount": 8,
   "game": [
     {
-      "name": "Transformixe",
+      "name": "Transformice",
       "domain": "transformice.com",
       "swfUrl": "google.com/demo.swf",
       "imgUrl": "google.com/demo.jpg"
@@ -75,12 +75,6 @@
     },
     {
       "name": "Nanomice",
-      "domain": "nanomice.eu",
-      "swfUrl": "google.com/demo.swf",
-      "imgUrl": "google.com/demo.jpg"
-    },
-    {
-      "name": "Müdahale ediyoruz",
       "domain": "nanomice.eu",
       "swfUrl": "google.com/demo.swf",
       "imgUrl": "google.com/demo.jpg"
