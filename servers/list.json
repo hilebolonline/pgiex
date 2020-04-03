@@ -52,12 +52,6 @@
       "imgUrl": "google.com/demo.jpg"
     },
     {
-      "name": "Sonymice",
-      "domain": "sonymice.com",
-      "swfUrl": "http://pgiex3.hilebol.online/Games/V1/Sonymice/ChargeurSonymice.swf",
-      "imgUrl": "google.com/demo.jpg"
-    },
-    {
       "name": "Micemixy",
       "domain": "micemixy.site",
       "swfUrl": "http://pgiex3.hilebol.online/Games/V1/Micemixy/ChargeurMicemixy.swf",
