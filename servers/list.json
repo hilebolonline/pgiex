@@ -52,6 +52,12 @@
       "imgUrl": "google.com/demo.jpg"
     },
     {
+      "name": "Sonymice",
+      "domain": "sonymice.com",
+      "swfUrl": "http://pgiex3.hilebol.online/Games/V1/Sonymice/ChargeurSonymice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
       "name": "Micemixy",
       "domain": "micemixy.site",
       "swfUrl": "http://pgiex3.hilebol.online/Games/V1/Micemixy/ChargeurMicemixy.swf",
@@ -79,12 +85,6 @@
       "name": "Cheeseformice",
       "domain": "cheeseformice.ru",
       "swfUrl": "http://pgiex3.hilebol.online/Games/V1/Cheeseformice/ChargeurCheeseformice.swf",
-      "imgUrl": "google.com/demo.jpg"
-    },
-    {
-      "name": "NULL",
-      "domain": "null",
-      "swfUrl": "google.com/demo.swf",
       "imgUrl": "google.com/demo.jpg"
     },
     {
