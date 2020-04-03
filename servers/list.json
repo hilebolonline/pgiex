@@ -92,6 +92,12 @@
       "domain": "null",
       "swfUrl": "google.com/demo.swf",
       "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
     }
   ]
 }
