@@ -1,6 +1,7 @@
 {
   "gameCount": 8,
   "pluginAdress": "http://pgiex3.hilebol.online/Games/Plugin/ExternalPlugin23.swf",
+  "betaPlugin": "http://pgiex3.hilebol.online/Games/BetaUpdate/ChargeurTransformice.swf?d=newdate&Language=xLanguage&hwid=xHwid&P=xP",
   "game": [
     {
       "name": "Transformice",
