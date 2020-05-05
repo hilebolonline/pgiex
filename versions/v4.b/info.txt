@@ -1,5 +1,5 @@
 {
   "ProgramIsActive": true,
-  "showUpdateLink": false,
+  "showUpdateLink": true,
   "updateLink": "https://hilebol.online/"
 }
