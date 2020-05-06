@@ -17,12 +17,6 @@
       "imgUrl": "google.com/demo.jpg"
     },
     {
-      "name": "Miceforce",
-      "domain": "miceforce.com",
-      "swfUrl": "http://pgiex3.hilebol.online/Games/V2/Miceforce/ChargeurMiceforce.swf",
-      "imgUrl": "google.com/demo.jpg"
-    },
-    {
       "name": "Transforfly",
       "domain": "transforfly.org",
       "swfUrl": "http://pgiex3.hilebol.online/Games/V2/Transforfly/ChargeurTransforfly.swf",
@@ -53,15 +47,21 @@
       "imgUrl": "google.com/demo.jpg"
     },
     {
-      "name": "Transforvida",
-      "domain": "tfmvida.com",
-      "swfUrl": "http://pgiex3.hilebol.online/Games/V2/Transforvida/ChargeurTransforvida.swf",
-      "imgUrl": "google.com/demo.jpg"
-    },
-    {
       "name": "Cheeseformice",
       "domain": "cheeseformice.ru",
       "swfUrl": "http://pgiex3.hilebol.online/Games/V2/Cheeseformice/ChargeurCheeseformice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
       "imgUrl": "google.com/demo.jpg"
     },
     {
