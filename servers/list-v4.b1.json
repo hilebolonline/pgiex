@@ -1,0 +1,56 @@
+{
+  "gameCount": 8,
+  "pluginAdress": "http://pgiex3.hilebol.space/Games/Plugin/ExternalPlugin24.swf",
+  "settings": "?d=newdate&Language=xLanguage&hwid=xHwid&P=xP",
+  "betaPlugin": "http://pgiex3.hilebol.space/Games/BetaUpdate/ChargeurTransformice.swf",
+  "game": [
+    {
+      "name": "Transformice",
+      "domain": "transformice.com",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/BetaUpdate/ChargeurTransformice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Dressroom",
+      "domain": "customize skin",
+      "swfUrl": "https://hilebol.space/tfmdressroom/dressroom.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforfly",
+      "domain": "transforfly.org",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Transforfly/ChargeurTransforfly.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforhard",
+      "domain": "tfmhard.com",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Transforhard/ChargeurTransforhard.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforselect",
+      "domain": "tfmselect.net",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Transforselect/ChargeurTransforselect.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Dropformice",
+      "domain": "dropformice.co",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Dropformice/ChargeurDropformice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Micemixy",
+      "domain": "micemixy.site",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Micemixy/ChargeurMicemixy.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Cheeseformice",
+      "domain": "cheeseformice.ru",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Cheeseformice/ChargeurCheeseformice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    }
+  ]
+}
