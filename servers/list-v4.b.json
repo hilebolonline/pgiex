@@ -2,12 +2,12 @@
   "gameCount": 8,
   "pluginAdress": "http://pgiex3.hilebol.space/Games/Plugin/ExternalPlugin24.swf",
   "settings": "?d=newdate&Language=xLanguage&hwid=xHwid&P=xP",
-  "betaPlugin": "http://pgiex3.hilebol.space/Games/BetaUpdate/ChargeurTransformice.swf",
   "game": [
     {
       "name": "Transformice",
       "domain": "transformice.com",
-      "swfUrl": "http://pgiex3.hilebol.space/Games/BetaUpdate/ChargeurTransformice.swf",
+      "swfUrl": "C:\\Pgiex\\TFMClient\\ChargeurTransformice.swf",
+      "autoUpdate": "http://pgiex3.hilebol.space/Games/BetaUpdate/",
       "imgUrl": "google.com/demo.jpg"
     },
     {
