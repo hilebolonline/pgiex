@@ -1,7 +1,7 @@
 {
   "gameCount": 8,
   "pluginAdress": "http://pgiex3.hilebol.space/Games/Plugin/ExternalPlugin24.swf",
-  "settings": "?d=newdate&Language=xLanguage&hwid=xHwid&P=xP",
+  "settings": "?d=newdate&Language=xLanguage&hwid=xHwid&byte=xB&version=xV",
   "game": [
     {
       "name": "Transformice",
