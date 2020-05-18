@@ -1,5 +1,5 @@
 {
-  "gameCount": 8,
+  "gameCount": 9,
   "pluginAdress": "http://pgiex3.hilebol.space/Games/Plugin/ExternalPlugin24.swf",
   "settings": "?d=newdate&Language=xLanguage&hwid=xHwid&byte=xB&version=xV",
   "game": [
@@ -17,39 +17,87 @@
       "imgUrl": "google.com/demo.jpg"
     },
     {
+      "name": "Furymice",
+      "domain": "furymice.com",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Furymice/ChargeurFurymice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+    {
+      "name": "Dropformice",
+      "domain": "dropformice.co",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Dropformice/ChargeurDropformice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+      "name": "Drymice",
+      "domain": "drymice.com",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Drymice/ChargeurDrymice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
       "name": "Transforfly",
       "domain": "transforfly.org",
-      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Transforfly/ChargeurTransforfly.swf",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforfly/ChargeurTransforfly.swf",
       "imgUrl": "google.com/demo.jpg"
     },
     {
       "name": "Transforhard",
       "domain": "tfmhard.com",
-      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Transforhard/ChargeurTransforhard.swf",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforhard/ChargeurTransforhard.swf",
       "imgUrl": "google.com/demo.jpg"
     },
     {
       "name": "Transforselect",
       "domain": "tfmselect.net",
-      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Transforselect/ChargeurTransforselect.swf",
-      "imgUrl": "google.com/demo.jpg"
-    },
-    {
-      "name": "Dropformice",
-      "domain": "dropformice.co",
-      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Dropformice/ChargeurDropformice.swf",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforselect/ChargeurTransforselect.swf",
       "imgUrl": "google.com/demo.jpg"
     },
     {
       "name": "Micemixy",
       "domain": "micemixy.site",
-      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Micemixy/ChargeurMicemixy.swf",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Micemixy/ChargeurMicemixy.swf",
       "imgUrl": "google.com/demo.jpg"
     },
-    {
-      "name": "Cheeseformice",
-      "domain": "cheeseformice.ru",
-      "swfUrl": "http://pgiex3.hilebol.space/Games/V2/Cheeseformice/ChargeurCheeseformice.swf",
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
       "imgUrl": "google.com/demo.jpg"
     }
   ]
