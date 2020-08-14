@@ -40,7 +40,18 @@
       "domain": "tfmselect.net",
       "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforselect/ChargeurTransforselect.swf",
       "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
     }
-    ,null,null
   ]
 }
