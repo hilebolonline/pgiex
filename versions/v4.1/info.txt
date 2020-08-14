@@ -1,4 +1,3 @@
-  
 {
   "ProgramIsActive": true,
   "showUpdateLink": false,
