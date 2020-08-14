@@ -7,7 +7,7 @@
     {
       "name": "Transformice",
       "domain": "transformice.com",
-      "swfUrl": "ChargeurTransformice.swf",
+      "swfUrl": "\\ChargeurTransformice.swf",
       "autoUpdate": "http://pgiex3.hilebol.space/Games/V4-Update/",
       "imgUrl": "google.com/demo.jpg"
     },
