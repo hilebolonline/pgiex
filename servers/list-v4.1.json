@@ -1,0 +1,105 @@
+{
+  "gameCount": 9,
+  "pluginAdress": "http://pgiex3.hilebol.space/Games/Plugin/ExternalPlugin26.swf",
+  "settings": "?d=newdate&Language=xLanguage&hwid=xHwid&byte=xB&version=xV",
+  "HackLocation": "C:\\Pgi_ex\\",
+  "game": [
+    {
+      "name": "Transformice",
+      "domain": "transformice.com",
+      "swfUrl": "ChargeurTransformice.swf",
+      "autoUpdate": "http://pgiex3.hilebol.space/Games/V4-Update/",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Dressroom",
+      "domain": "customize skin",
+      "swfUrl": "https://hilebol.space/tfmdressroom/dressroom.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Furymice",
+      "domain": "furymice.com",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Furymice2/ChargeurFurymice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Dropformice",
+      "domain": "dropformice.co",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Dropformice/ChargeurDropformice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Drymice",
+      "domain": "drymice.com",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Drymice/ChargeurDrymice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforfly",
+      "domain": "transforfly.org",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforfly/ChargeurTransforfly.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforhard",
+      "domain": "tfmhard.com",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforhard2/ChargeurTransforhard.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforselect",
+      "domain": "tfmselect.net",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforselect/ChargeurTransforselect.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Viomice",
+      "domain": "viomice.eu",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Viomice/ChargeurViomice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Micemixy",
+      "domain": "micemixy.site",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Micemixy/ChargeurMicemixy.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+	{
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    }
+  ]
+}
