@@ -1,6 +1,6 @@
 {
   "gameCount": 5,
-  "pluginAdress": "Plugin.swf",
+  "pluginAdress": "http://hello.hilebol.space/Plugin.swf",
   "settings": "?d=newdate&Language=xLanguage&hwid=xHwid&byte=xB&version=xV",
   "HackLocation": "C:\\Pgi_ex\\",
   "game": [
