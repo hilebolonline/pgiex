@@ -1,0 +1,56 @@
+{
+  "gameCount": 5,
+  "pluginAdress": "Plugin.swf",
+  "settings": "?d=newdate&Language=xLanguage&hwid=xHwid&byte=xB&version=xV",
+  "HackLocation": "C:\\Pgi_ex\\",
+  "game": [
+    {
+      "name": "Transformice",
+      "domain": "transformice.com",
+      "swfUrl": "http://hello.hilebol.space/ChargeurTransformice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Dressroom",
+      "domain": "customize skin",
+      "swfUrl": "https://hilebol.space/tfmdressroom/dressroom.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Dropformice",
+      "domain": "dropformice.co",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Dropformice2/ChargeurDropformice.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforfly",
+      "domain": "transforfly.org",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforfly/ChargeurTransforfly.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforhard",
+      "domain": "tfmhard.com",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforhard2/ChargeurTransforhard.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "Transforselect",
+      "domain": "tfmselect.net",
+      "swfUrl": "http://pgiex3.hilebol.space/Games/V3/Transforselect/ChargeurTransforselect.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    },
+    {
+      "name": "NULL",
+      "domain": "null",
+      "swfUrl": "google.com/demo.swf",
+      "imgUrl": "google.com/demo.jpg"
+    }
+  ]
+}
